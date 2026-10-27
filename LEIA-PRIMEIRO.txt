@@ -1,0 +1,13 @@
+V7 — PREÇO DA ABERTURA: DE R$ 59,00 POR R$ 24,90
+
+O topo agora mostra apenas os dois valores, com preço anterior riscado e R$ 24,90 em destaque, sem card ou descrições. O restante da página foi preservado.
+
+PUBLICAR NA VERCEL:
+- Extraia o ZIP e publique o conteúdo desta pasta: index.html + assets/ no mesmo nível.
+- Não abra index.html de uma pasta antiga (como pagina-cafes-pronta-vercel).
+- Se usar o HTML independente, ele já incorpora todas as imagens.
+
+O valor no início refere-se à oferta Premium. O plano Básico continua R$ 14,90 na seção de planos.
+Os valores efetivamente cobrados são definidos na Cakto; confirme-os antes de publicar.
+Divulgue o preço anterior de R$ 59,00 apenas se tiver sido realmente praticado.
+Meta Pixel: 1749841796120540.

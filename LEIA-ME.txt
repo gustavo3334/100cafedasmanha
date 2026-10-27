@@ -1,0 +1,12 @@
+100 CAFÉS DA MANHÃ SEM PÃO - V4 (imagens corrigidas)
+
+PUBLICAÇÃO NA VERCEL
+1. Extraia todos os arquivos deste ZIP em uma pasta.
+2. Publique a pasta inteira (com index.html na raiz e pasta assets ao lado).
+3. Framework: Other / sem framework. Build Command: vazio. Output Directory: deixe no padrão.
+4. Confirme as imagens após a publicação, especialmente capa, receitas, 5 bônus e planos.
+5. Confira Meta Pixel e os dois checkouts da Cakto.
+
+A pasta assets é obrigatória nesta versão otimizada. Se quiser abrir somente um HTML sem depender de assets, use o arquivo separado pagina-cafes-v4-imagens-incorporadas.html.
+
+IMPORTANTE: Não envie só o index.html desta pasta para a Vercel.
